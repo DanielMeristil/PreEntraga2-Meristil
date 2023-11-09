@@ -1,0 +1,202 @@
+[
+    {
+        "id":1,
+        "nombre":"New Style",
+        "precio":500,
+        "img":"/img/New Style.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":2,
+        "nombre":"Tratamiento Facial",
+        "precio":150,
+        "img":"/img/producto 2.jpg",
+        "descripcion":"Set redken shampoo 300 ml +one united 30 ml +cosmetiquero.",
+        "stock":20,
+        "categoria":"Producto"
+    },
+    {
+        "id":3,
+        "nombre":"Corte Pelo",
+        "precio":50,
+        "img":"/img/Style Leo.jpg",
+        "descripcion":"Una gran manera de hacer un regalo bien pensado y útil para el hombre es regalando uno de los kits.",
+        "stock":3,
+        "categoria":"Barberia"
+    },
+    {
+        "id":4,
+        "nombre":"Pack Crema",
+        "precio":50,
+        "img":"/img/Pack Crema.jpg",
+        "descripcion":"Acondicionador en crema enriquecido que completa y mantiene el servicio de rubios en el salón.",
+        "stock":100,
+        "categoria":"Producto"
+    },
+    {
+        "id":5,
+        "nombre":"Pack Jámon.jpg",
+        "precio":30,
+        "img":"/img/Pack Jámon.jpg",
+        "descripcion":"Los jabones de karité de Savon du Midi se producen en Francia en La Provenza.",
+        "stock":150,
+        "categoria":"Producto"
+    },
+    {
+        "id":6,
+        "nombre":"LOSION ONE",
+        "precio":200,
+        "img":"/img/Maquillaje 1.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":100,
+        "categoria":"Maquillaje"
+    },
+    {
+        "id":7,
+        "nombre":"Mack de Maquillaje",
+        "precio":200,
+        "img":"/img/Pack de maquillaje.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":100,
+        "categoria":"Maquillaje"
+    },
+    {
+        "id":8,
+        "nombre":"Style Afro",
+        "precio":150,
+        "img":"/img/Style afro.jpg",
+        "descripcion":"Una gran manera de hacer un regalo bien pensado y útil para el hombre es regalando uno de los kits.",
+        "stock":20,
+        "categoria":"Barberia"
+
+    },
+    {
+        "id":9,
+        "nombre":"Style MBP",
+        "precio":150,
+        "img":"/img/Style MPB.jpg",
+        "descripcion":"Una gran manera de hacer un regalo bien pensado y útil para el hombre es regalando uno de los kits.",
+        "stock":20,
+        "categoria":"Barberia"
+
+    },
+    {
+        "id":10,
+        "nombre":"New Style",
+        "precio":500,
+        "img":"/img/Modelo Style.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":11,
+        "nombre":"Header",
+        "precio":50,
+        "img":"/img/header 2.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Sobre Nosotros"
+    },
+    {
+        "id":12,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 13.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":13,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 15.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":14,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 16.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":15,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 17.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":16,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/Style 1 2 3.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Fashon"
+    },
+    {
+        "id":17,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 5.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    },
+    {
+        "id":18,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 6.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    },
+    {
+        "id":19,
+        "nombre":"Producto",
+        "precio":500,
+        "img":"/img/producto 7.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    },
+    {
+        "id":20,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/producto 8.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    },
+    {
+        "id":21,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/Tratamiento facial 1.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    },
+    {
+        "id":20,
+        "nombre":"Producto",
+        "precio":50,
+        "img":"/img/Tratamiento pelo.jpg",
+        "descripcion":"Aporta profundidad y relieve a tu mirada, gracias a las sombras de ojos mate de Zao. Varía los colores y alterna las zonas claras y oscuras para obtener un efecto sedoso e intenso.",
+        "stock":1,
+        "categoria":"Producto"
+    }
+]

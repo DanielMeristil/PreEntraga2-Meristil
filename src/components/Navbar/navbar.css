@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.liContainer{
+    margin-right: 1.5rem;
+    text-decoration: none;
+}
+
+.enlacesContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.enlace{
+    color:rgb(17, 207, 84)
+}
+
+.active{
+    color:rgb(171, 118, 48)
+}
